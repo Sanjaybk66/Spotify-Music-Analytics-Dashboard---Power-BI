@@ -18,4 +18,8 @@ Data Modeling – Establishing relationships between tables
 
 Interactive Visualizations – Bar charts, line charts, scatter plots, slicers, and filters
 
-# Dataset used
+# DataSet Uesd  
+[Dataset](https://github.com/Sanjaybk66/Spotify-Music-Analytics-Dashboard---Power-BI/blob/main/spotify-2023.csv)
+
+# Dashboard Interaction
+[View Dashboard](https://github.com/Sanjaybk66/Spotify-Music-Analytics-Dashboard---Power-BI/blob/main/SPOTIFY.pbix)
