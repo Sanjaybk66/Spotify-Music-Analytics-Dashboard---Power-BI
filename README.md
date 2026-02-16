@@ -18,7 +18,7 @@ This project demonstrates strong skills in data cleaning, visualization design, 
 
 - Applied structured data modeling techniques to ensure seamless interaction between visuals and maintain consistency across the dashboard.
 
-Designed the dashboard with a modern dark-themed interface to create a visually appealing and professional user experience while maintaining clarity in data presentation.
+- Designed the dashboard with a modern dark-themed interface to create a visually appealing and professional user experience while maintaining clarity in data presentation.
 # DataSet Uesd  
 [Dataset](https://github.com/Sanjaybk66/Spotify-Music-Analytics-Dashboard---Power-BI/blob/main/spotify-2023.csv)
 
